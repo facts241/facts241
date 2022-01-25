@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>Index</title>
+</head>
+<body>
+<header> 
+<a href="index.html"> 
+<img src="C:\Users\acer\Desktop\HTML WEBSITE\img\logo2.jpg'.jpg" title="logo">
+<img src="C:\Users\acer\Desktop\HTML WEBSITE\img\logo.jpg.png" title="facts factory logo">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</td>
+<td><a href="articles.html">Articles</td>
+<td><a href="habits.html">Habits</td>
+<td><a href="skills.html">Skills</td>
+<td><a href="quotes.html">Quotes</td>
+<td><a href="books.html">Books</td>
+</tr>
+</table>
+</nav>
+<hr>
+<h1>Welcome to Facts Factory!</h1>
+
+<p>
+Facts Factory in which I am Going to tell every one about something Real&Intereseting facts.
+</P>
+
+<img src="C:\Users\acer\Desktop\HTML WEBSITE\img\channels4_profile.jpg" title="Facts Factory">
+<h1>This is our channel logo"Facts Factory"</h1>
+
+<h1>List of Video made:</h1>
+<ul>
+<li>No.1.Who Made the Months?</li>
+<li>No.2.The First Courier Company in the World</li>
+<li>No.3.Old Cartoons that we have forgotten</li>
+<p><strong>Made with Love❤</strong></p>
+<hr>
+<footer>
+<a href="https://www.youtube.com/channel/UC1ZR1lL0Ik6Wi-x42DmXNqA">
+<img src="C:\Users\acer\Desktop\HTML WEBSITE\img\Screenshot (157).png" title="go to facts factory"></a><br>
+copyright & copy; Facts Factory.2021-2022
+</footer>
+</hr>
+</ul>
+</body>
